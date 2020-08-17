@@ -1,0 +1,5 @@
+{
+	"name": "mraid",
+	"compilerVersion": "5.2.30",
+	"typings": "typings/mraid.d.ts"
+}
